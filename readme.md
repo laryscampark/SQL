@@ -9,8 +9,8 @@ O objetivo principal deste repositório é aprimorar os conhecimentos em SQL.
 O repositório inclui:
 
 - **Tutoriais**: Passo a passo para aprender conceitos básicos e avançados de SQL.
-- **Exemplos de Código**: Demonstração de consultas SQL em diferentes bancos de dados.
-- **Desafios**: Problemas práticos para testar e aprimorar suas habilidades.
+- **Exemplos de Código**: Demonstração de consultas SQL em diferentes bancos de dados (em construção).
+- **Desafios**: Problemas práticos para testar e aprimorar suas habilidades (em construçaõ).
 - **Recursos**: Links úteis para artigos, livros e outras fontes de aprendizado.
 
 
@@ -62,6 +62,10 @@ ADD DataContratacao date;
 ALTER TABLE Funcionarios
 DROP COLUMN DataContratacao;
 ```
+
+## Recursos gratuitos para estudar
+
+- **Udacity**: Recursos Gratuito [SQL](https://learn.udacity.com/courses/ud198/lessons/ae1532d3-cde0-4881-8c27-b460d6ce23ee/concepts/b997f8f2-ee5e-4e03-a60b-0158e9ea7a57)
 
 ## Contribuição
 Sua contribuição é bem-vinda! Sinta-se à vontade para adicionar novos tutoriais, exemplos de código, desafios ou recursos úteis. Para contribuir, basta fazer um fork deste repositório, realizar as alterações e enviar um pull request. Por favor, siga as diretrizes de contribuição.
