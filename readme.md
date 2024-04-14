@@ -63,6 +63,13 @@ ALTER TABLE Funcionarios
 DROP COLUMN DataContratacao;
 ```
 
+**O comando LIMIT é sempre a última parte de uma consulta**
+```sql
+SELECT *
+FROM orders
+LIMIT 10;
+```
+
 ## Recursos gratuitos para estudar
 
 - **Udacity**: Recursos Gratuito [SQL](https://learn.udacity.com/courses/ud198/lessons/ae1532d3-cde0-4881-8c27-b460d6ce23ee/concepts/b997f8f2-ee5e-4e03-a60b-0158e9ea7a57)
