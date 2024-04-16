@@ -15,6 +15,8 @@ CREATE TABLE orders (
 
 SELECT * FROM orders 
 
+SELECT id, account_id, occurred_at
+FROM orders;
 
 INSERT INTO orders (id, account_id, occurred_at, standard_qty, gloss_qty, poster_qty, total, standard_amt_usd, gloss_amt_usd, poster_amt_usd, total_amt_usd) VALUES
 (1, 1001, '2015-10-06 17:31:14', 123, 22, 24, 169, 613.77, 164.78, 194.88, 973.43);
